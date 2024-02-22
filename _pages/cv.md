@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D  (expected)
+* MA, Digital Direction, Royal College of Art, 2022
+* BA, Motion Graphics, University of Southampton, 2012
 
 Work experience
 ======

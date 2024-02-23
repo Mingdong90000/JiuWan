@@ -17,20 +17,16 @@ Education
 
 Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* The Hong Kong University of Science and Technology, Research Assistant, 2023.10-2024.01
+  
+* Academy of Arts & Design，Tsinghua University, Design Future group member, 2023.06-2023.09
+  * Meme research and construction of analytical tools
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* International Design Institute of Zhejiang University, Research Assistant, 2022.05-2022.08
+  * XR Shop Creative and Scenario Building
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Academy of Arts & Design，Tsinghua University, group member (part-time), 2022.05-2022.08
+  * DF metaverse Capsule Project, Scenario construction and narrative
 
 Work experience
 ======
